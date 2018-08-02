@@ -1,4 +1,4 @@
-money = int(input('贷款金额（万）：'))
+money = int(input('贷 款 金 额（万）：'))
 year = int(input('贷款期限（年）：'))
 rate = float(input('年利率（%）：'))
 factor = float(input('浮动倍数：'))
